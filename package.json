@@ -1,0 +1,15 @@
+{
+  "name": "cypress-qa-demo",
+  "version": "1.0.0",
+  "description": "Registration form testing applying Cypress",
+  "private": false,
+  "main": "index.js",
+  "author": "Pavlo",
+  "scripts": {
+    "cyOpen": "cypress open",
+    "cyTest": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^14.2.0"
+  }
+}
