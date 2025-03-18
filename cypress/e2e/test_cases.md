@@ -58,7 +58,7 @@
 
       Status: Passed
 
-<h2>TC #4. Mobile number field doesn't accept more than 10 digits/h2>
+<h2>TC #4. Mobile number field doesn't accept more than 10 digits</h2>
 
     Description: Upon user entered more than 10 digits to the mobile field then follwing digits or chaars are not accepted
 
