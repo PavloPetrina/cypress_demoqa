@@ -149,7 +149,11 @@
       Expected Result: unsupported city option is not applied - select remains empty
       Actual Result: As expected
 
-      Status: Passed           
+      Status: Passed
+
+<b>FYI</b> 
+1. From the API perspective - make sence to repeat all negative test cases trying register the user with required data or with invalid data.
+2. Clross-browser, GUI and mobile testing was not applied due to time limitation
 
 <br>_________________________________________________________________________
       
