@@ -70,7 +70,7 @@
       3. Fill 11 digits to mobile number field and fill-out rest of all required and optinal form fields
       4. Click on the "Submit" button
 
-      Expected Result: Mobile number field is to accepting any char and digit strictly after 10 digit was entered
+      Expected Result: Mobile number field is not accepting any char and digit strictly after 10 digit was entered
 
       Actual Result: As expected
 
